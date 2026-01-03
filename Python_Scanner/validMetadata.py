@@ -18,6 +18,14 @@ valid_set_names = [
     "Branch & Blade Song",
     "Chaos Jazz",
     "Proto Punk",
+    "Shining Aria",
+    "White Water Ballad",
+    "Moonlight Lullaby",
+    "Dawn's Bloom",
+    "King of the Summit",
+    "Yunkui Tales",
+    "Shadow Harmony",
+    "Phaethon's Melody"
 ]
 
 # Disk Partition 1 Main Stats
